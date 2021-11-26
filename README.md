@@ -1,5 +1,9 @@
 # Born2beroot
 
+```
+FINAL GRADE: 125/100
+```
+
 Creating and securing a debian VM.
 
 ## Monitoring
